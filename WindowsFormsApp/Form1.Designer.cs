@@ -66,7 +66,7 @@
             this.tbThreadNum.Size = new System.Drawing.Size(114, 26);
             this.tbThreadNum.TabIndex = 1;
             this.tbThreadNum.Text = "2";
-            this.tbThreadNum.Enter += new System.EventHandler(this.tbThreadNum_Enter);
+            
             this.tbThreadNum.Leave += new System.EventHandler(this.tbThreadNum_TextChanged);
             // 
             // bStop
